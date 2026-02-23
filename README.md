@@ -18,7 +18,7 @@ I enjoy building products from scratch — from architecture and backend logic t
 
 💻 Languages
 
-"JavaScript" "TypeScript" "Java" "Python" "C++"
+"JavaScript" "TypeScript" "Java" "Python"
 
 🌐 Web & Backend
 
@@ -71,9 +71,9 @@ Multiple end-to-end web platforms with authentication, database integration, and
 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel"></a>
+  <a href="https://github.com/dakshpandey161"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/dakshpandey161"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-site-six-taupe-94.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel"></a>
 </p>---
 
 <p align="center">
